@@ -90,7 +90,6 @@ export default function Incidents() {
                         <Feather name="arrow-right" size={16} color="#E02041" />
                     </TouchableOpacity>
                 </View>
-
             )}
             />
         </View>
